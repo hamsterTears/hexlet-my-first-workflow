@@ -1,1 +1,1 @@
-sey-hello: console.log('Hello, World')
+make say-hello: console.log('Hello, World')
